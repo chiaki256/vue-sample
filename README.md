@@ -6,6 +6,8 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 
 
 -----
+
+<pre>
 .
 ├── index.html
 ├── node_modules 省略
@@ -26,7 +28,7 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 │   └── vanilla.js
 ├── sub.html
 └── vite.config.js
-
+</pre>
 
 sub.html: バニラJavaScriptで作ったカウンタの表示HTML  
 vanilla.js: バニラJavaScriptで作ったカウンタの実装ファイル
